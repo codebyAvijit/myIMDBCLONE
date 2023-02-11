@@ -1,0 +1,104 @@
+html,
+body {
+  margin: 0;
+  font-size: xx-large;
+}
+#container {
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid black;
+}
+iframe {
+  height: 400px;
+  width: 500px;
+}
+#flexpro {
+  display: flex;
+  justify-content: space-evenly;
+}
+img {
+  height: 400px;
+  width: 300px;
+}
+.parent {
+  color: white;
+  font-size: x-large;
+  border: 2px solid white;
+  margin: 0;
+  padding: 0;
+  background-image: url(https://wallpapercave.com/wp/wp9584678.jpg);
+}
+a {
+  text-decoration: none;
+  font-size: x-large;
+  margin: 300px;
+  font-style: italic;
+}
+a:hover {
+  color: red;
+  font-size: xx-large;
+}
+header {
+  text-align: center;
+  font-size: x-large;
+  font-style: italic;
+  margin: 0;
+  padding-top: 130px;
+}
+header:hover {
+  font-style: oblique;
+  color: red;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: xx-large;
+}
+#sumhead {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 10px;
+  font-style: italic;
+}
+#sumhead:hover {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: red;
+}
+summary {
+  font-style: italic;
+  font-size: medium;
+  font-weight: bold;
+  font-size: xx-large;
+}
+#secdiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+#quote,
+#actor,
+aside {
+  border: 2px solid white;
+  font-size: xx-large;
+}
+li {
+  padding: 8px;
+  font-size: xx-large;
+}
+h4 {
+  text-align: center;
+  font-size: xx-large;
+}
+h4:hover {
+  color: red;
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+footer {
+  font-size: xx-large;
+  text-align: center;
+}
+footer:hover {
+  color: red;
+  font-size: xx-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
